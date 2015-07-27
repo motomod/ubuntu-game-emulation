@@ -1,0 +1,634 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Addams Family.smc</path>
+		<name>The Addams Family</name>
+		<desc>The Addams Family is a platform game based on the characters and settings from the movie (which, in turn, is based on the famous 1960's television series, which in turn is based on Charles Addams cartoon of the same name, which was featured in the magazine, The New Yorker, in the 30's).
+
+The game takes place towards the end of the movie: the Addams Family has been evicted from their home by a court order issued by a backstabbing attorney (there's one for the books), Tully Alford. Even worse, the other Addamses: Morticia, Pugsley, Wednesday, Granny and Lurch have gone missing.
+
+As Gomez, you must tour the Addams mansion in search of your lost family, battling out mysterious monsters and evading traps, and eventually face your nemesis, Tully.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Addams Family-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19920301T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Ocean</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./R-Type3.smc</path>
+		<name>R-Type3</name>
+		<playcount>3</playcount>
+		<lastplayed>20141113T225703</lastplayed>
+	</game>
+	<game>
+		<path>./Sim City 2000.smc</path>
+		<name>SimCity 2000</name>
+		<desc>SimCity 2000 is the successor to the ground breaking city simulation game Sim City. You are once again the mayor, but this time you can fully customize the terrain before building your city. The graphics are isometric, whereas the original had graphics displayed in a top-down fashion.
+
+This title adds numerous features over the original such as the ability of building "light" zones, subways, hospitals, colleges, zoos, and arcos which are actually cities in cities. You can now give names to places, and your city is surrounded by neighboring towns with which you can make trade. Finally, instead of the poll in the first game you now have the option of reading several newspapers to get an idea of your progress.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Sim City 2000-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19961101T000000</releasedate>
+		<developer>Imagineer</developer>
+		<publisher>Konami</publisher>
+		<genre>Construction and Management Simulation</genre>
+	</game>
+	<game>
+		<path>./TMHT 5.smc</path>
+		<name>TMHT 5</name>
+		<playcount>1</playcount>
+		<lastplayed>20141114T131503</lastplayed>
+	</game>
+	<game>
+		<path>./Anime v1.5 (PD).smc</path>
+		<name>Anime v1.5</name>
+		<playcount>2</playcount>
+		<lastplayed>20141114T215234</lastplayed>
+	</game>
+	<game>
+		<path>./Anime v1.6 (PD).smc</path>
+		<name>Anime v1.6</name>
+		<playcount>1</playcount>
+		<lastplayed>20141114T215245</lastplayed>
+	</game>
+	<game>
+		<path>./Anime v1.7 (PD).smc</path>
+		<name>Anime v1.7</name>
+		<playcount>1</playcount>
+		<lastplayed>20141114T215321</lastplayed>
+	</game>
+	<game>
+		<path>./Anime v1.8 (PD).smc</path>
+		<name>Anime v1.8</name>
+		<playcount>2</playcount>
+		<lastplayed>20141114T215344</lastplayed>
+	</game>
+	<game>
+		<path>./Tetris Attack (E).smc</path>
+		<name>Tetris Attack</name>
+		<desc>In Tetris Attack, the player is presented with a playfield consisting of a virtual grid of squares, each of which can be occupied by a colored block. Blocks are stacked on top of one another and rise steadily toward the top of the playfield, with new blocks being added at the bottom. The player must arrange blocks in horizontal or vertical lines of three or more matching colors by swapping blocks horizontally two at a time. As matching lines are formed, the blocks are cleared from the screen and any blocks above them fall into the gaps. The game is over when the blocks touch the top of the playfield, or another game-ending condition is met (such as reaching a time limit or clearing blocks below a set line).
+
+Clearing more than three tiles in a single move scores a Combo, while Chains are scored when falling blocks from one clear cause another clear to occur. Both of these events score extra bonus points, and in multiplayer Versus games, these also send "garbage blocks" to the other player's playfield.
+
+Tetris Attack provides several single-player modes. Story Mode takes the player through the game's main plot, pitting the player against a series of foes in a head-to-head match. The objective is to cause the computer-controlled player to lose. In Endless Mode, the player is challenged to play as long as possible with a continuously rising stack of blocks, which increases in speed over time. Timed Mode challenges the player to score as many points as possible within a two-minute time limit, and Stage Clear mode takes the player through a series of stages in which the objective is to clear blocks below a set line. A Puzzle Mode is also provided, which presents the player with a number of puzzles where he or she must clear all of the blocks in a set number of moves (Blocks do not rise in this mode).
+
+In addition to the game's single-player modes, Tetris Attack also provides several multiplayer modes that are essentially two-player variants of the single-player modes. One or both human players may be substituted with a computer-controlled player with a selectable difficulty level.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Tetris Attack (E)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19961103T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Addams Family Values.smc</path>
+		<name>Addams Family Values</name>
+		<desc>The evil Debbie Jelinksi is harming the Addams family once again... She has kidnapped Baby Pubert, and Uncle Fester is the one who must find him and to bring him back to his loving family. The game is based on the live-action movie of the same name.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Addams Family Values-image.jpg</image>
+		<rating>0.4</rating>
+		<developer>Ocean Software</developer>
+		<publisher>Ocean Software</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Contra III - The Alien Wars.smc</path>
+		<name>Contra III: The Alien Wars</name>
+		<desc>The hideous Red Falcon, thought to have been destroyed long ago by the Earth's greatest commandos, Mad Dog and Scorpian, has risen again, this time pissed off and thirsty for revenge. His armies are marching through the cities, across the lands, and with the intention of exterminating the human race like a bad case of fleas. Two new commandos, Jimbo and Sully, have come forth now to kick Red Falcon's ass and save what remains of the world from his hideous plans!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Contra III - The Alien Wars-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19920406T000000</releasedate>
+		<developer>Konami Co., Ltd.</developer>
+		<publisher>Konami Co., Ltd.</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20141113T192503</lastplayed>
+	</game>
+	<game>
+		<path>./Donkey Kong Country.smc</path>
+		<name>Donkey Kong Country</name>
+		<desc>Donkey Kong Country is a Jump &amp; Run released in 1994 for the SNES. Challenged by the crazed tribe of reptilian Kremlings &amp; King K. Rool, Donkey &amp; Diddy Kong face their cunning adversaries armed with lightning-quick moves, chest-pounding muscle, and awesome aerial acrobatics. The duo also gets help from a host of friends and family - from Funky Kong, Cranky Kong and Candy Kong, to Rambi the rhino, Expresso the ostrich, Enguarde the swordfish, Squawks the parrot and Winky the frog. Explore over 30 levels plus dozens of hidden caves or secret rooms and discover every corner of the maps to help the Kongs recovering their stolen banana hoard!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Donkey Kong Country-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19941121T000000</releasedate>
+		<developer>Rare Ltd.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Donkey Kong Country 2.smc</path>
+		<name>Donkey Kong Country 2: Diddy's Kong Quest</name>
+		<desc>Donkey Kong Country 2 is the sequel to Donkey Kong Country and was released in 1995 by Nintendo for the Super Nintendo Entertainment System. As Donkey Kong gets kidnapped by Kaptain King K. Rool, only Diddy &amp; Dixie Kong were left behind to help him out. On their rescue mission they get help from well-known animal buddies, collect bananas &amp; prescious coins and fight against more than 30 enemies, including 6 bosses. Throughout their adventure they explore distinct areas on Crocodile Isle like pirate ships, muddy swamps, haunted woods, lava bays, abandoned mines and even icy caverns!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Donkey Kong Country 2-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19951121T000000</releasedate>
+		<developer>Rare</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Donkey Kong Country 3.smc</path>
+		<name>Donkey Kong Country 3: Dixie Kong's Double Trouble</name>
+		<desc>Donkey Kong Country 3 was released for the SNES in 1996 as the 3rd installment in the Donkey Kong Country Series. 
+Dixie Kong and her cousin Kiddy Kong have to find Donkey Kong &amp; Diddy Kong, who went missing on a fishing trip. Meanwhile, the Kremling Krew returns under the leadership of the mysterious robot KAOS, which is secretly controlled by the notorious villian King K. Rool aka K. Roolenstein. Once more various loyal animal friends and Kong family members stand by your side to find the missing Kongs - check out dusty mills, deciduous forests and snowy mountains, explore high cliffs, waterfalls &amp; beautiful riverside areas!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Donkey Kong Country 3-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19961122T000000</releasedate>
+		<developer>Rare</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Doom.smc</path>
+		<name>Doom</name>
+		<desc>The Union Aerospace Corporation has been experimenting with teleportation technology on Mars' moons Phobos and Deimos. After early successes, something goes wrong. It seems the scientists have opened a gateway straight to Hell. Phobos base is overrun with demonic creatures, and the whole of Deimos simply vanishes. A squad of marines is sent to Phobos, but all except one are quickly slaughtered. It falls to the surviving marine to grab some guns and strike back at the demons.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Doom-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19950901T000000</releasedate>
+		<developer>id Software</developer>
+		<publisher>Williams Entertainment</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Earthworm Jim.smc</path>
+		<name>Earthworm Jim</name>
+		<desc>A crow is chasing a worm named Jim while in outer space Psy-Crow is chasing a renegade ship. The ship's captain has stolen an ultra-high-tech-indestructible-super-space-cyber-suit and Queen Slug-for-a-Butt has ordered Psy-Crow to get it, since it can make her more beautiful than Princess-What's-Her-Name. Psy-Crow blasts the captain and the suit falls to Planet Earth.
+
+Back on earth Jim wonders if he is finally safe when an ultra-high-tech-indestructible-super-space-cyber-suit lands on him. Luckily Jim rests in the neck ring of the suit. Then the space particles begin interacting with Jim, causing a light-speed evolution. Jim soon realizes he is in control of the suit.
+
+Jim overhears the Queen's plans for the suit and decides to meet this Princess...</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Earthworm Jim-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19940802T000000</releasedate>
+		<developer>Shiny Entertainment, Inc.</developer>
+		<publisher>Playmates Interactive Entertainment, Inc.</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Gokujou Parodius.smc</path>
+		<name>Gokujou Parodius</name>
+		<desc>Overall, the gameplay is identical to that of its predecessor, Parodius! From Myth to Laughter, with several new characters to choose from. Also new, if you play a two-player game, the second player will have a different set of characters to select. They are clones of the first player characters, except with different names and slightly altered sprites or changed color palettes. These characters include: Vic Viper/Lord British, Pentaro/Hanako, Twinbee/Winbee, Takosuke/Belial, Hikaru/Akane, Mambo/Samba, Michael/Gabriel and Koitsu/Aitsu.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Gokujou Parodius-image.jpg</image>
+		<releasedate>19941125T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Indiana Jones.smc</path>
+		<name>Indiana Jones' Greatest Adventures</name>
+		<desc>Indiana Jones gets the Super Star Wars treatment for SNES. The title consists of platform levels from the first three Indy films: Raiders of the Lost Ark, Temple of Doom, and Last Crusade. Players get to use Indy's trademark whip, as well as guns, grenades, and his fists to get through the game.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Indiana Jones-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19941011T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Jikkyou Oshaberi Parodius.smc</path>
+		<name>Jikkyou Oshaberi Parodius</name>
+		<desc>Jikkyō Oshaberi Parodius (Chatty Parodius), is the fourth game in a series of parody shooters produced by Konami. The gameplay is stylistically very similar to the Gradius series, but the graphics and music are intentionally absurd. The game, as its name would suggest, contains a large amount of Japanese voice samples shouted out in a style similar to that of a game show host. Unlike the previous two titles, Jikkyō Oshaberi Parodius was not created as an arcade game. It was first released on the Super Famicom in 1995 and then ported and updated for the PlayStation and Sega Saturn in 1996.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Jikkyou Oshaberi Parodius-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19951215T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20141115T212332</lastplayed>
+	</game>
+	<game>
+		<path>./Lemmings.smc</path>
+		<name>Lemmings</name>
+		<desc>Lemmings is divided into a number of levels, grouped into four difficulty levels. Each level comprises both destructible landscape elements such as rocks, indestructible sections such as steel plates, and numerous obstacles including chasms, high walls, large drops, pools of water or lava, and booby traps. Each level also includes one or more entrance points and one or more exits. The goal is to guide a certain percentage of the green-haired, blue-shirted lemmings from the entrance to the exit by clearing or creating a safe passage through the landscape for the lemmings to use.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Lemmings-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19920301T000000</releasedate>
+		<developer>DMA Design</developer>
+		<publisher>Sunsoft</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Mr. Nutz.smc</path>
+		<name>Mr. Nutz</name>
+		<desc>You are the cool squirrel of the title, and you must defeat the evil Yeti before he freezes the entire world. Your quest will make you explore many areas such as a forest, a witch's cottage, a volcano, the clouds, a circus...
+
+Mr. Nutz is a platform game, in which Nutz must jump on enemies to kill them. His tail can also be controlled. You move through levels using ledges, ladders, bridges and platforms. There are some simple puzzles involving object manipulation.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Mr. Nutz-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19940801T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Ocean</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Ms Pacman.smc</path>
+		<name>Ms. Pacman Champion Edition / Zola-Puc Gal</name>
+		<developer>hack</developer>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Pac-Man 2 - The New Adventures.smc</path>
+		<name>Pac-Man 2: The New Adventures</name>
+		<desc>In Pac-Man 2, the player plays the role of an observer and assistant that follows Pac-Man as he sets out to accomplish various tasks. Pac-Man himself walks around in a cartoon world and interacts directly with the player, as well as with objects and other characters. The player cannot control Pac-Man directly, but instead can direct his attention in various directions, and is armed with a slingshot that can be used to strike certain objects, including Pac-Man himself.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Pac-Man 2 - The New Adventures-image.jpg</image>
+		<releasedate>19940901T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Adventure</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Parodius - Non-Sense Fantasy.smc</path>
+		<name>Parodius Non-Sense Fantasy</name>
+		<desc>This is mostly the parody of Gradius (Nemesis on some systems), with some flavor from other shoot-em-ups, like Twinbee. The series is available on numerous platforms.
+
+The game is a right-to-left scrolling shoot-em-up. You can choose from 4 different flying creatures, with different weapons. You must finish 7 stages, each having a boss at the end. You may start at either one, but must complete every level to advance to the final stage.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Parodius - Non-Sense Fantasy-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Parodius Da.smc</path>
+		<name>Parodius Non-Sense Fantasy</name>
+		<desc>This is mostly the parody of Gradius (Nemesis on some systems), with some flavor from other shoot-em-ups, like Twinbee. The series is available on numerous platforms.
+
+The game is a right-to-left scrolling shoot-em-up. You can choose from 4 different flying creatures, with different weapons. You must finish 7 stages, each having a boss at the end. You may start at either one, but must complete every level to advance to the final stage.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Parodius Da-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./R-Type III The Third Lightning.smc</path>
+		<name>R-Type III: The Third Lightning</name>
+		<desc>The evil Bydo Empire returns in this entry of the R-Type series. So climb into the latest R-Type vessel, the R-90, and blast through six side-scrolling levels on your way to destroy the Bydo mothership.
+
+Gameplay is still the classic R-Type way with huge levels and bosses. With your detachable laser unit, you can fire in front or behind your ship. R-Type III now features three different kinds of laser unit, selectable at the start of a game. Each offers different laser types depending on the power-ups collected.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/R-Type III The Third Lightning-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19941001T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Jaleco</publisher>
+		<genre>Shooter</genre>
+		<playcount>1</playcount>
+		<lastplayed>20150106T225326</lastplayed>
+	</game>
+	<game>
+		<path>./SimCity.smc</path>
+		<name>SimCity</name>
+		<desc>SimCity sets you as the mayor of a new municipality, with the responsibility of building and maintaining a place where citizens can move to and work and be happy. The first task is to place essentials such as housing, transport links, schools, factories and shops. There are 50 types of these, allowing for homes of all standards and different types of businesses. Make sure to consider which sites are effective for which tasks. Some power sources pollute, others don't but are more expensive. Taxes must be raised to ensure an income, and then portions allocated to public services such as policing and roads. Earthquakes, floods and fires are all emergency situations that must be dealt to contain any damage.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/SimCity-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19910813T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Construction and Management Simulation</genre>
+	</game>
+	<game>
+		<path>./SimCity 2000.smc</path>
+		<name>SimCity 2000</name>
+		<desc>SimCity 2000 is the successor to the ground breaking city simulation game Sim City. You are once again the mayor, but this time you can fully customize the terrain before building your city. The graphics are isometric, whereas the original had graphics displayed in a top-down fashion.
+
+This title adds numerous features over the original such as the ability of building "light" zones, subways, hospitals, colleges, zoos, and arcos which are actually cities in cities. You can now give names to places, and your city is surrounded by neighboring towns with which you can make trade. Finally, instead of the poll in the first game you now have the option of reading several newspapers to get an idea of your progress.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/SimCity 2000-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19961101T000000</releasedate>
+		<developer>Imagineer</developer>
+		<publisher>Konami</publisher>
+		<genre>Construction and Management Simulation</genre>
+	</game>
+	<game>
+		<path>./Star Ocean.smc</path>
+		<name>Star Ocean</name>
+		<desc>A young boy named Ratix lives in the town Clatos on a planet with medieval culture, together with his best friends Dorn and Milly. They belong to respectable families of warriors and healers, and excel in battles kills. One day, a letter from a neighbor town arrives. A strange disease has plagued the town and its inhabitants plead the healers of Clatos to help them. Milly's father decides to go, but he himself catches the disease. The young adventurers must save Milly's father and other people at all costs. But in the beginning of their journey, they discover a crashed space ship with people who belong to a much more advanced civilization. People from two different worlds must work together to solve the grand mystery...
+
+This RPG contains some interesting gameplay details, such as Approval Rating: people like or dislike each other and their behavior towards Ratix and within the party might change depending on their feelings to him and your own actions. The combat is fast-paced, real-time: you control Ratix, while other party members are AI-controlled. You can customize combat tactics by assigning roles to your comrades, and you can pause the combat at any time to make strategic decisions.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Star Ocean-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19960719T000000</releasedate>
+		<developer>tri-Ace</developer>
+		<publisher>Enix</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Street Fighter 2 - The New Challengers.smc</path>
+		<name>Street Fighter Alpha 2</name>
+		<desc>DO YOU HAVE WHAT IT TAKES?
+
+The bad boys from the Street Fighter series are back for more fisticuffs of fury! Eighteen different combatants, some old and some new, are here to lay claim to the title "World's Best". Screamin' moves like Ken's Dragon Punch, Adon's Jaguar Tooth and M. Bison's Somersault Skull Driver will blow you away! Play alone or pummel a friend in two-player simultaneous action. This ain't no cakewalk. This ain't no cakewalk. This is Street Fighter Alpha 2 and it's blazing on your Super NES!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Street Fighter 2 - The New Challengers-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19961220T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Street Fighter II Turbo.smc</path>
+		<name>Street Fighter II Turbo</name>
+		<desc>The second SNES version by Capcom, titled Street Fighter II Turbo. The primary game mode in this version is "Turbo" mode, which is based on the arcade version of Hyper Fighting. It allows players to adjust the game's speed from zero (normal) to four stars, with six additional speed settings available via a cheat code. A secondary game mode called "Normal" is also available, which is based on the arcade version of Champion Edition. In versus mode, a menu which allows players to disable any of the characters' special moves can be accessed via a cheat code.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Street Fighter II Turbo-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19930710T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Super Adventure Island.smc</path>
+		<name>Super Adventure Island</name>
+		<desc>Master Higgins is back in his wildest and greatest adventure of all! His girlfriend, Jeannie Jungle, has been turned to stone by the evil Dark Cloak. Now he must leap into action to defeat the scores of guardian animals and monsters that protect the wicked wizard.
+Join Master Higgins as he reaches new heights of adventure on his high flying skateboard. Speed through underground caves in a crazy mine car ride! Go from tropical shores to the belly of a whale - all in search of his final battle with the mad magician, Dark Cloak!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Super Adventure Island-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19920401T000000</releasedate>
+		<developer>Produce</developer>
+		<publisher>Hudson</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Super Adventure Island II.smc</path>
+		<name>Super Adventure Island II</name>
+		<desc>Master Higgins finally marries his lovely girlfriend Tina. But out of nowhere, a powerful tropical cyclone destroyed the idyllic mood of their honeymoon. And not only this: it separated the ardent lovers again. After the winds stopped blowing, Tina found herself somewhere on a tropical coast. As for Master Higgins, he went to the king of Waku-Waku and, along with his main quest to save his brand new wife, got an assignment to save also a princess, whom the king was about to marry. Is there a connection between those two events?..</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Super Adventure Island II-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19941001T000000</releasedate>
+		<developer>Make</developer>
+		<publisher>Hudson</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Super Aleste (E).smc</path>
+		<name>Super Aleste</name>
+		<image>~/.emulationstation/downloaded_images/snes/Super Aleste (E)-image.jpg</image>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+		<players></players>
+		<playcount>1</playcount>
+		<lastplayed>20141113T192737</lastplayed>
+	</game>
+	<game>
+		<path>./Super Aleste (J).smc</path>
+		<name>Super Aleste</name>
+		<image>~/.emulationstation/downloaded_images/snes/Super Aleste (J)-image.jpg</image>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+		<players></players>
+		<playcount>1</playcount>
+		<lastplayed>20141113T192813</lastplayed>
+	</game>
+	<game>
+		<path>./Super Buster Bros.smc</path>
+		<name>Super Buster Bros.</name>
+		<desc>Super Pang is an adventure for one or two players that takes the player around the world, aiming to rid the planet of a terrible foe: seemingly innocuous-looking bubbles. The main portion of the game is Tour mode, where the player visits a series of different levels representing different countries of the world. Each player's character is armed with a gun, which shoots a vertical cable. If this hits a bubble, it will cause it to split in two. Upgrades allow two cables to be shot at once, or the ability to stick a cable to the ceiling where it will cling for a few seconds, bursting any bubble that hits it.
+
+Players must clear each screen of bubbles before progressing to the next one. The largest bubbles will have 4 degrees of splitting before clearing. Many level layouts have ladders, barriers and breakable bricks in part of the screen, affecting movement of both the player and the bubbles. Faster bubbles in the shape of diamonds also bounce around the screen going any which way rather than bouncing in predictable arcs like the other bubbles.
+
+Several power-up tokens are also available, offering features such as splitting all bubbles down to their minimal size, freezing the bubbles for a few seconds, and various different weapons. Monsters also enter the screen periodically, which hit the bubbles and take them down a size, and can often be directed by the cable weapon.
+
+In addition to the main Tour mode, the game also features Panic mode, in which a succession of bubbles are thrown at at the players. As the player progresses, the amount of bubbles required to reach the next level also increases, similar to scoring on Tetris.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Super Buster Bros-image.png</image>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Avalon</publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./Castlevania IV.smc</path>
+		<name>Super Castlevania IV</name>
+		<desc>A century of Transylvanian tranquility is about to come to a shocking end. Once again the mortifying screams of helpless villagers shake the ground as they huddle against new nightmarish horrors unleashed by the Duke of Darkness, Count Dracula. And this time he has a tombstone with your name on it, Simon Belmont.
+You must descend into Castle of the Undead and its gruesome ground, accompanied by the most chilling sound effects to ever tingle your spine. Inside, a freshly dug 11 levels maze features the treacherous Terrace of Terror, the dangerous Rotating Dungeon, the Sunken Ruins of Lost Spirits, torture chambers and creature filled caves. Use your whip like a grappling hook and swing past hundreds of traps and a host of ghost freaks, living corpses and hidden goblins. All while dodging or destroying the unpredictable spitting lizards, carnivorous coffins, and more.
+Find the concealed weapons needed to defeat everything from eerie phantoms to haunted furniture. Then prepare to find yourself face-to-thing with hideous torments like the Tongue Lasher, the Darkest Knight, the Bone-Afide Horseman and the Granite Crusher. When your nerves get shot, use your password and take a breather. But forge on, Simon Belmont, because if you though Dracula was down for the count, he's only just begun to fright!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Castlevania IV-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19911201T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Super Mario All Stars.smc</path>
+		<name>Super Mario All-Stars</name>
+		<desc>Revisit the magic and fun of the classic Super Mario Bros. series on your Super NES! All the great Super Mario Bros. games for the NES have been powered up with 16-bit graphics and sound and collected on one super game pak. As an added bonus, the previously unreleased "Lost Levels" are included. These super challenging courses have never been available in this country until now!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Super Mario All Stars-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19930801T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Super Mario Kart.SMC</path>
+		<name>Super Mario Kart</name>
+		<desc>The Super Mario GoKart Park is open for tons of racing fun! Hit the track with Mario, Luigi, Yoshi and the Princess. Get tough and lock fenders with Donkey Kong, Jr. and Bowser. Even Toad and Koopa Troopa will mix it up in an all-out quest for the Gold Cup! Race head-to-head with a friend or challenge the computer in great, split-screen, Mode 7 graphics.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Super Mario Kart-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19920901T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Super Mario World.smc</path>
+		<name>Super Mario World</name>
+		<desc>Mario's off on his biggest adventure ever, and this time he's brought along a friend. Yoshi the dinosaur teams up with Mario to battle Bowser, who has kidnapped Princess Toadstool once again. Guide Mario and Yoshi through nine peril-filled worlds to the final showdown in Bowser's castle. Use Mario's new powers and Yoshi's voracious monster-gobbling appetite as you explore 96 levels filled with dangerous new monsters and traps. Climb mountains and cross rivers, and descend into subterranean depths. Destroy the seven Koopa castles and find keys to gain entrance to hidden levels. Discover more warps and thrilling bonus worlds than ever before!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Super Mario World-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19901121T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Yoshis Island.smc</path>
+		<name>Super Mario World 2: Yoshi's Island</name>
+		<desc>The Evil Magikoopa, Kamek, is out to kidnap Baby Mario! In this sequel to Super Mario World, you play as Yoshi. Your goal is to successfully carry Baby Mario back to his parents in the Mushroom Kingdom while avoiding all of Kamek's clever traps and evil minions. Enjoy the various backgrounds of the rich and vibrant locales of Yoshi's Island as you race to complete your quest.
+Is Yoshi up to the momentous task at hand? Help him toss his eggs, manipulate unique objects and solve puzzling situations! When in doubt, don't be afraid to try EVERYTHING!!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Yoshis Island-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19951004T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Super Metroid.smc</path>
+		<name>Super Metroid</name>
+		<desc>Chronologically, Super Metroid takes place seventh in the Metroid universe and immediately after the events of Metroid II: Return of Samus, and begins with a narrative by bounty hunter Samus Aran. Samus describes how a Metroid larva hatched from an egg and immediately imprinted upon her, believing her to be its mother. She brought the larva to Ceres Space Colony, where scientists learned that they could harness its power. Just after she left the colony, she received a distress call and returned to find the scientists dead and the larva stolen. The game begins as she follows the leader of the Space Pirates, Ridley, to the planet Zebes, where she searches for the stolen larva in a network of caves.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Super Metroid-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19940418T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Super Noah's Ark 3D.smc</path>
+		<name>Super Noah's Ark 3D</name>
+		<playcount>1</playcount>
+		<lastplayed>20150106T225109</lastplayed>
+	</game>
+	<game>
+		<path>./R-Type.smc</path>
+		<name>Super R-Type</name>
+		<desc>In this SNES sequel to the arcade R-Type shooters, you are the R-9, Earth's most advanced form of defense against the evil BYDO Empire. There are seven stages you must go through, picking up power-up items to defeat the stage bosses which have returned from the arcade versions of R-Type and R-Type II. Your R-9 ship can also be united with FORCE, which are invincible units that surround your ship to protect you and can also power up and attack.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/R-Type-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19910901T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Super Star Wars Return of the Jedi.smc</path>
+		<name>Super Star Wars: Return of the Jedi</name>
+		<desc>Super Star Wars: Return of the Jedi follows closely the standard set by the first two Super Star Wars games, with the return of selectable characters (on specific levels), multiple playable characters and Mode 7 quasi-3D vehicle sequences. The controls are identical to the second game, and this installment also includes its predecessor's password save option. It loosely follows the plot of Return of the Jedi, although some of the levels aren't seen in the film at all, such as Luke Skywalker having to fight through the Death Star to get to Emperor Palpatine. In addition to the standard Luke Skywalker, Han Solo, and Chewbacca, new playable characters include Princess Leia Organa (in Boushh, Slave, and Rebel uniforms) and Wicket the Ewok. Bosses include the Jabba the Hutt's Palace door droid, the Rancor beast, Darth Vader and Emperor Palpatine. Vehicle sequences include the Endor speeder bike chase, and a cruise in the Millennium Falcon. Luke Skywalker no longer has 9 Force Powers to work with but 5 and it is easier for him to "recharge" his abilities. He also cannot use any variation of the blaster in this game. Interestingly, Darth Vader is far easier to beat in this game than in Super Star Wars: The Empire Strikes Back. The final boss in the game is Emperor Palpatine, who is unforgivingly difficult as he is able to levitate and shoots lighting all over the throne room, annihilating platforms and walkways. The final levels detail the attack on the Second Death Star's main reactor.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Super Star Wars Return of the Jedi-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19941001T000000</releasedate>
+		<developer>Sculptured Software</developer>
+		<publisher>JVC</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Super Star Wars Empire Strikes Back.smc</path>
+		<name>Super Star Wars: The Empire Strikes Back</name>
+		<desc>Super Star Wars: The Empire Strikes Back follows closely the standard set by Super Star Wars, with multiple playable characters and Mode 7 quasi-3D vehicle sequences. The controls are very similar to the first game, but feature a double-jump. Luke Skywalker, Han Solo, and Chewbacca return as playable characters although the character-select option itself was removed.
+
+Unlike the original game, this installment allows each character the use of a primary and secondary weapon. Following one of the Dagobah missions, Luke Skywalker can also collect Force Powers for use in later levels. Darth Vader appears as the final boss in the video game.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Super Star Wars Empire Strikes Back-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19931001T000000</releasedate>
+		<developer>Sculptured Software</developer>
+		<publisher>JVC</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Taz-Mania.smc</path>
+		<name>Taz-Mania</name>
+		<desc>This version of Taz-Mania is different from the side-scrolling versions by Sega, in this version the player controls Taz from a third-person perspective.  The goal of the game is to travel down the road, collecting Kiwi's before the timer runs out, avoiding obstacles along the way.  The Kiwi's will get harder to catch as the game goes on, jumping over Taz and actually outrunning him at times.
+
+Some obstacles Taz faces are trees, telephone poles, tour buses, even pterodactyls who will bring Taz back at the beginning of the level, but also have to avoid characters such as Axl &amp; Bull, a pair of gators who try to capture Taz for the zoo, The She-Devil who is in love with Taz and if the player is caught by her, the game is instantly over and Wendal T. Wolf, who will jump on Taz's back and cover the screen with his hands making it hard to see.
+
+You can avoid some obstacles by using Taz's tornado spin, but using the spin will cause Taz's health meter to drop, but it can be refilled by eating Kiwi's along with blue and red birds, bushrats and items thrown to Taz by Didgeri Dingo, but beware, he can also throw obstacles at Taz as well including T.N.T.  There is also a bonus stages after completing three levels in which you collect as many items you can in the allotted time to raise the score.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Taz-Mania-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19930501T000000</releasedate>
+		<developer>Visual Concepts</developer>
+		<publisher>Sunsoft</publisher>
+		<genre>Racing</genre>
+	</game>
+	<game>
+		<path>./Teenage Mutant Ninja Turtles Tournament Fighters.smc</path>
+		<name>Teenage Mutant Ninja Turtles: Tournament Fighters</name>
+		<desc>The game features the original 4 turtles from the previous games in the series, as well as other fighters.
+
+The game is very much in the tradition of the Mortal Kombat or Street Fighter series, pitting you against opponents one at a time. Some fighters (besides the turtles) will be familiar, such as the Rat King, or even Shredder (now called "Cyber-Shredder" here).
+
+Though even people familiar with the turtles will see differences in them. They can now, for example, do moves involving projectiles, such as "fireballs".
+
+The game's modes include a story mode, where you can only pick one of the turtles and go on fighting opponents in order to rescue April and Splinter, and a tournament mode, where you fight only for the fame and money.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Teenage Mutant Ninja Turtles Tournament Fighters-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19930904T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Tetris &amp; Dr Mario.smc</path>
+		<name>Tetris &amp; Dr. Mario</name>
+		<desc>Two of the most popular puzzle games return, but now together in an exclusive compilation for SNES. The games have a slight graphical update when compared with the original Game Boy and NES games, but the gameplay remains totally faithful to the games released for both platforms.
+
+In Tetris, the main objective is to pile blocks that will fall down continuously, in order to create a row or "line" without spaces. For this collection, the game comes with two bonus options: 2 PLAYER GAME (absent in the NES version) and VS. COM (absent in both versions), with 3 CPU opponents available, each one representing a difficulty level (EASY, MEDIUM, and HARD, respectively).
+
+In Dr. Mario, the objective is to eliminate all the viruses contained in a big bottle. Dr. Mario (situated in the upper-right side of the screen) will throw capsules with 6 different color combinations (Red-Red, Red-Blue, Yellow-Yellow, Red-Yellow, Blue-Blue and Blue-Yellow) in order to line up at least four viruses or capsules of the same color horizontally or vertically and to make them disappear. In this compilation, the game comes with a bonus option: VS. COM, where you'll face the CPU players: Blue Virus (EASY), Yellow Virus (MEDIUM), and Red Virus (HARD).</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Tetris &amp; Dr Mario-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19941201T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Tetris Attack.smc</path>
+		<name>Tetris Attack</name>
+		<desc>In Tetris Attack, the player is presented with a playfield consisting of a virtual grid of squares, each of which can be occupied by a colored block. Blocks are stacked on top of one another and rise steadily toward the top of the playfield, with new blocks being added at the bottom. The player must arrange blocks in horizontal or vertical lines of three or more matching colors by swapping blocks horizontally two at a time. As matching lines are formed, the blocks are cleared from the screen and any blocks above them fall into the gaps. The game is over when the blocks touch the top of the playfield, or another game-ending condition is met (such as reaching a time limit or clearing blocks below a set line).
+
+Clearing more than three tiles in a single move scores a Combo, while Chains are scored when falling blocks from one clear cause another clear to occur. Both of these events score extra bonus points, and in multiplayer Versus games, these also send "garbage blocks" to the other player's playfield.
+
+Tetris Attack provides several single-player modes. Story Mode takes the player through the game's main plot, pitting the player against a series of foes in a head-to-head match. The objective is to cause the computer-controlled player to lose. In Endless Mode, the player is challenged to play as long as possible with a continuously rising stack of blocks, which increases in speed over time. Timed Mode challenges the player to score as many points as possible within a two-minute time limit, and Stage Clear mode takes the player through a series of stages in which the objective is to clear blocks below a set line. A Puzzle Mode is also provided, which presents the player with a number of puzzles where he or she must clear all of the blocks in a set number of moves (Blocks do not rise in this mode).
+
+In addition to the game's single-player modes, Tetris Attack also provides several multiplayer modes that are essentially two-player variants of the single-player modes. One or both human players may be substituted with a computer-controlled player with a selectable difficulty level.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Tetris Attack-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19961103T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./The Addams Family.smc</path>
+		<name>The Addams Family</name>
+		<desc>The Addams Family is a platform game based on the characters and settings from the movie (which, in turn, is based on the famous 1960's television series, which in turn is based on Charles Addams cartoon of the same name, which was featured in the magazine, The New Yorker, in the 30's).
+
+The game takes place towards the end of the movie: the Addams Family has been evicted from their home by a court order issued by a backstabbing attorney (there's one for the books), Tully Alford. Even worse, the other Addamses: Morticia, Pugsley, Wednesday, Granny and Lurch have gone missing.
+
+As Gomez, you must tour the Addams mansion in search of your lost family, battling out mysterious monsters and evading traps, and eventually face your nemesis, Tully.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/The Addams Family-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19920301T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Ocean</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Addams Family Pugsley's Scavenger Hunt.smc</path>
+		<name>The Addams Family: Pugsley's Scavenger Hunt</name>
+		<desc>The Addams Family: Pugsley's Scavenger Hunt is a side-scrolling platformer based on the second animated TV series The Addams Family (1992). The player takes the role of Pugsley who gets challenged to a scavenger hunt by his sister Wednesday. He has to retrieve six items which are of course hidden in six levels which can be accessed in any order. The gameplay follows the usual platforming standards: Pugsley moves from left to right while jumping a lot, avoiding enemies and sometimes solving switch puzzles. Pugsley can take three hits before dying but if he collects enough dollar symbols he can replenish his health.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Addams Family Pugsley's Scavenger Hunt-image.jpg</image>
+		<releasedate>19930201T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Ocean</publisher>
+		<genre>Platform</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./The Simpsons - Bart's Nightmare.smc</path>
+		<name>The Simpsons: Bart's Nightmare</name>
+		<desc>Bart has to stay up late and write a paper for class tomorrow. For once, he is determined to get a good mark. However, very quickly, he falls asleep. Nightmare after nightmare haunt his subconscious, and it is up to you to get over each one, so that Bart will eventually wake up. From such dreams as being in an episode of Itchy &amp; Scratchy to swimming through his own bloodstream, this platformer offers a nice challenge through its many diverse levels.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/The Simpsons - Bart's Nightmare-image.jpg</image>
+		<rating>0.4</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Sculptured Software</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Platform</genre>
+	</game>
+</gameList>

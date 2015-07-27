@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Castlevania - The New Generation.bin</path>
+		<name>Castlevania: The New Generation</name>
+		<desc>In the year 1917, evil had threatened to rise up again in Transylvania. A young lady named Elizabeth Bartley, who was tried as a witch and killed centuries before, was planning to resurrect the Prince of Darkness, Count Dracula, once again.
+
+The latest of the Belmont lineage, John Morris, and his friend Eric Lecarde, must now travel across Europe to the Palace of Versailles in France, where Bartley is planning the resurrection. And in their way stands Dracula's strongest followers yet...</desc>
+		<image>~/.emulationstation/downloaded_images/megadrive/Castlevania - The New Generation-image.jpg</image>
+		<releasedate>19940317T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre></genre>
+		<players></players>
+		<playcount>1</playcount>
+		<lastplayed>20141115T212303</lastplayed>
+	</game>
+	<game>
+		<path>./Mega Bomberman.bin</path>
+		<name>Mega Bomberman</name>
+		<desc>The inhabitants of Bomber Planet lived in peace, protected by five spirits, until the evil Bagular and his robot army invaded. The Spirit Pictures, the source of the Spirits' magical power, were destroyed, splitting Bomber Planet into five pieces. Bomberman arrives to restore the Spirit Pictures and reassemble Bomber Planet.</desc>
+		<image>~/.emulationstation/downloaded_images/megadrive/Mega Bomberman-image.jpg</image>
+		<releasedate>19941001T000000</releasedate>
+		<developer>Hudson Soft</developer>
+		<publisher>Hudson Soft</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Prince of Persia.bin</path>
+		<name>Prince of Persia</name>
+		<desc>Prince of Persia is a 2D Platformer game, developed and published by Broderbund,  which was released in 1989.</desc>
+		<image>~/.emulationstation/downloaded_images/megadrive/Prince of Persia-image.jpeg</image>
+		<developer>Broderbund</developer>
+		<genre>tformer</genre>
+	</game>
+	<game>
+		<path>./Sonic the Hedgehog.bin</path>
+		<name>Sonic &amp; Knuckles + Sonic the Hedgehog</name>
+		<desc>When Sonic 3 is locked-on to the original Sonic the Hedgehog or Sonic Compilation via Lock-On Technology, the result is a deceptive "No Way!" screen. However, by pressing the A, B and C buttons together players can access Special Stage levels, commonly known as the "Blue Sphere" levels. Levels can be accessed by inputting a twelve digit code, every number combination a different variation of a Special Stage level.</desc>
+		<image>~/.emulationstation/downloaded_images/megadrive/Sonic the Hedgehog-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19941018T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Sonic the Hedgehog 2.smd</path>
+		<name>Sonic the Hedgehog 2</name>
+		<desc>The gameplay of Sonic the Hedgehog 2 builds upon the basic set-up of the original Sonic the Hedgehog game. The player finishes each level, generally moving from left to right, within a time limit of 10 minutes.  Along the way, rings are collected and Badniks are defeated. Star posts serve as checkpoints, where if the player was to lose a life then he or she would return to one.  When the player has collected at least 50 rings, star posts can be run past for an optional Special Stage.  At the end of the last act of each zone (with the exception of Sky Chase Zone which does not have a boss), Sonic confronts Dr. Robotnik.</desc>
+		<image>~/.emulationstation/downloaded_images/megadrive/Sonic the Hedgehog 2-image.jpg</image>
+		<releasedate>19921120T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Space Invaders '91.bin</path>
+		<name>Super Space Invaders '91 </name>
+		<developer>Taito Corporation Japan</developer>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./X-Men 2 - Clone Wars.bin</path>
+		<name>X-Men 2 - Clone Wars</name>
+		<playcount>3</playcount>
+		<lastplayed>20150106T230512</lastplayed>
+	</game>
+</gameList>

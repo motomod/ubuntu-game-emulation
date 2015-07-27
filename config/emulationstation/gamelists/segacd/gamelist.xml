@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Penn and Teller's Smoke and Mirrors/PTSM1.bin</path>
+		<name>PTSM1</name>
+		<playcount>5</playcount>
+		<lastplayed>20141113T193719</lastplayed>
+	</game>
+	<game>
+		<path>./Sol-Feace/Sol-Feace (U).bin</path>
+		<name>Sol-Feace</name>
+		<desc>Sol-Feace is a typical 2D shooter with weapon powerups. The game features six levels: Sirius, Enemy Arsenal, ArtifiStar, Pluto Base, Almathea, and Final Battle.</desc>
+		<image>~/.emulationstation/downloaded_images/segacd/Sol-Feace (U)-image.jpg</image>
+		<releasedate>19911212T000000</releasedate>
+		<developer>Wolf Team</developer>
+		<publisher>Wolf Team</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Penn and Teller's Smoke and Mirrors/Penn and Teller's Smoke and Mirrors Disc 1.bin</path>
+		<name>Penn &amp; Teller's Smoke and Mirrors</name>
+		<desc>Penn &amp; Teller's Smoke and Mirrors is a Simulation game, developed and published by Absolute Entertainment, which was cancelled before it was released.</desc>
+		<image>~/.emulationstation/downloaded_images/segacd/Penn and Teller's Smoke and Mirrors Disc 1-image.jpg</image>
+		<releasedate>19950401T000000</releasedate>
+		<developer>Absolute Entertainment</developer>
+		<publisher>Absolute Entertainment</publisher>
+		<genre></genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Penn and Teller's Smoke and Mirrors/Penn and Teller's Smoke and Mirrors Disc 2.bin</path>
+		<name>Penn &amp; Teller's Smoke and Mirrors</name>
+		<desc>Penn &amp; Teller's Smoke and Mirrors is a Simulation game, developed and published by Absolute Entertainment, which was cancelled before it was released.</desc>
+		<image>~/.emulationstation/downloaded_images/segacd/Penn and Teller's Smoke and Mirrors Disc 2-image.jpg</image>
+		<releasedate>19950401T000000</releasedate>
+		<developer>Absolute Entertainment</developer>
+		<publisher>Absolute Entertainment</publisher>
+		<genre></genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Sol-Feace/Sol-Feace.bin</path>
+		<name>Sol-Feace</name>
+		<desc>Sol-Feace is a typical 2D shooter with weapon powerups. The game features six levels: Sirius, Enemy Arsenal, ArtifiStar, Pluto Base, Almathea, and Final Battle.</desc>
+		<image>~/.emulationstation/downloaded_images/segacd/Sol-Feace-image.jpg</image>
+		<releasedate>19911212T000000</releasedate>
+		<developer>Wolf Team</developer>
+		<publisher>Wolf Team</publisher>
+		<genre>Shooter</genre>
+		<playcount>1</playcount>
+		<lastplayed>20150106T224716</lastplayed>
+	</game>
+	<game>
+		<path>./Sonic CD/Sonic CD.bin</path>
+		<name>Sonic CD</name>
+		<desc>Sonic's gameplay remains similar to that of Sonic the Hedgehog but with the addition of the Spin Dash and the Super Peel Out, which lets him zoom into a quick speed from a standing point.The main innovation of this chapter in the Sonic series is the manner in which the player can travel to four different versions of each zone, each a different time period of the same location: Present, Past, Good Future and Bad Future. This is accomplished by speed posts scattered around the level, bearing the labels "Past", and "Future". After running through one of these posts, the player has to run at top speed for a few seconds without stopping, to travel into the respective time period. Because these teleports are relative, there are no "Past" signs in the Past, and no "Future" signs in the Future; that is, warping to the past in the future returns the player to the "present" time and vice versa.</desc>
+		<image>~/.emulationstation/downloaded_images/segacd/Sonic CD-image.jpg</image>
+		<rating>1</rating>
+		<releasedate>19930923T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Adventure</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Time Gal/Time Gal (Sega CD) (U).bin</path>
+		<name>Time Gal</name>
+		<desc>The year is 4001. The evil Luna has stolen a time machine and plans to use it to take over the world. You are the Time Gal, a skillful and pretty scientist, and your mission is to chase Luna through different time periods, to get the time machine back, and to save the world.</desc>
+		<image>~/.emulationstation/downloaded_images/segacd/Time Gal (Sega CD) (U)-image.jpg</image>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Renovation Products</publisher>
+		<genre></genre>
+	</game>
+</gameList>

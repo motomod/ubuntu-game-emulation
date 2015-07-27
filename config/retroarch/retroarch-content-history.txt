@@ -1,0 +1,42 @@
+/mnt/nas.rdisk/ConsoleGames/MegaDrive/X-Men 2 - Clone Wars.bin
+/usr/lib/libretro/genesis_plus_gx_libretro.so
+Genesis Plus GX
+/mnt/nas.rdisk/ConsoleGames/SNES/R-Type III The Third Lightning.smc
+/usr/lib/libretro/snes9x_libretro.so
+SNES9x
+/mnt/nas.rdisk/ConsoleGames/SNES/Super Noah's Ark 3D.smc
+/usr/lib/libretro/snes9x_libretro.so
+SNES9x
+/mnt/Data/ConsoleGames/SNES/R-Type3.smc
+/usr/lib/libretro/snes9x_libretro.so
+SNES9x
+/mnt/Data/ConsoleGames/SNES/Super Aleste (J).smc
+/usr/lib/libretro/snes9x_libretro.so
+SNES9x
+/mnt/Data/ConsoleGames/SNES/Addams Family Pugsley's Scavenger Hunt.smc
+/usr/lib/libretro/snes9x_libretro.so
+SNES9x
+/mnt/Data/ConsoleGames/SNES/Star Ocean.smc
+/usr/lib/libretro/snes9x_libretro.so
+SNES9x
+/mnt/Data/ConsoleGames/SNES/The Simpsons - Bart's Nightmare.smc
+/usr/lib/libretro/snes9x_libretro.so
+SNES9x
+/mnt/Data/ConsoleGames/Atari 2600/Millipede.bin
+/usr/lib/libretro/stella_libretro.so
+Stella
+/mnt/Data/ConsoleGames/GameBoyColour/Shantae.gbc
+/usr/lib/libretro/tgbdual_libretro.so
+TGB Dual
+/mnt/Data/ConsoleGames/GameBoy/Millipede - Centipede.GB
+/usr/lib/libretro/tgbdual_libretro.so
+TGB Dual
+/mnt/Data/ConsoleGames/GameBoyAdvanced/MetroidZero Mission.gba
+/usr/lib/libretro/mednafen_gba_libretro.so
+Mednafen VBA-M
+/mnt/Data/ConsoleGames/GameBoyAdvanced/MetroidZero Mission.gba
+/usr/lib/libretro/vbam_libretro.so
+VBA-M
+/mnt/Data/ConsoleGames/MegaDrive/Sonic the Hedgehog.bin
+/usr/lib/libretro/genesis_plus_gx_libretro.so
+Genesis Plus GX

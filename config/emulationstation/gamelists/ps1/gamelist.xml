@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./PSX - Grand Theft Auto 2/Grand Theft Auto 2.BIN</path>
+		<name>Grand Theft Auto 2</name>
+		<playcount>1</playcount>
+		<lastplayed>20150109T225222</lastplayed>
+	</game>
+	<game>
+		<path>./V.I.P..bin</path>
+		<name>V.I.P.</name>
+		<playcount>1</playcount>
+		<lastplayed>20150109T225034</lastplayed>
+	</game>
+</gameList>

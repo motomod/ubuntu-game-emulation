@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./NightTrap/NightTrap1.bin</path>
+		<name>NightTrap1</name>
+		<playcount>3</playcount>
+		<lastplayed>20141113T184518</lastplayed>
+	</game>
+	<game>
+		<path>./NightTrap/NightTrap2.bin</path>
+		<name>NightTrap2</name>
+		<playcount>1</playcount>
+		<lastplayed>20141113T193630</lastplayed>
+	</game>
+	<game>
+		<path>./Doom.32x</path>
+		<name>Doom</name>
+		<desc>The basic objective in each level is simply to reach the exit. Since dozens of enemies stand in the way, the only way to get there is through killing them. Switches and buttons must be pressed to advance at certain points and often color-coded locked doors will block the way - matching keycards or skull keys must be found to pass.</desc>
+		<image>~/.emulationstation/downloaded_images/sega32x/Doom-image.jpg</image>
+		<releasedate>19940101T000000</releasedate>
+		<developer>id Software</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Night Trap/Night Trap Disc2.iso</path>
+		<name>Night Trap</name>
+		<image>~/.emulationstation/downloaded_images/sega32x/Night Trap Disc2-image.jpg</image>
+		<developer>Digital Pictures, Inc.</developer>
+		<genre>gy</genre>
+	</game>
+	<game>
+		<path>./Night Trap/Night Trap Disc1.iso</path>
+		<name>Night Trap</name>
+		<image>~/.emulationstation/downloaded_images/sega32x/Night Trap Disc1-image.jpg</image>
+		<developer>Digital Pictures, Inc.</developer>
+		<genre>gy</genre>
+	</game>
+</gameList>

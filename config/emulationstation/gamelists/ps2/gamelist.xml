@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./STREET_FIGHTER_EX3.iso</path>
+		<name>Street Fighter EX3</name>
+		<desc>Street Fighter EX3 is the third console installment in the Street Fighter EX series developed by Arika and published by Capcom.</desc>
+		<image>~/.emulationstation/downloaded_images/ps2/STREET_FIGHTER_EX3-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>20001026T000000</releasedate>
+		<developer>Akira</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Futurama.iso</path>
+		<name>Futurama</name>
+		<desc>Gameplay is a mix of action and platforming. As the game progresses, players play as each of four characters: Fry, Bender, Leela and Zoidberg. Fry's levels mostly involve shooter mechanics, as he can use a multitude of guns. Bender's levels are platformer-oriented while Leela's revolve around hand to hand combat. Zoidberg features in a short segment that plays similarly to the warthog levels from Crash Bandicoot. There are several Nibblers hidden in each level; collecting them unlocks extras such as movie clips and galleries.</desc>
+		<image>~/.emulationstation/downloaded_images/ps2/Futurama-image.jpg</image>
+		<releasedate>20030801T000000</releasedate>
+		<developer>Unique Development Studios</developer>
+		<publisher>Vivendi</publisher>
+		<genre>Platform</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Grand Theft Auto - San Andreas.iso</path>
+		<name>Grand Theft Auto: San Andreas</name>
+		<desc>Grand Theft Auto: San Andreas takes place within the state San Andreas, which is based on sections of California and Nevada. It comprises three major fictional cities: Los Santos corresponds to real-life Los Angeles; San Fierro corresponds to real-life San Francisco; and Las Venturas and the surrounding desert correspond to real-life Las Vegas and the Nevada and Arizona desert.</desc>
+		<image>~/.emulationstation/downloaded_images/ps2/Grand Theft Auto - San Andreas-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>20041026T000000</releasedate>
+		<developer>Rockstar</developer>
+		<publisher>Rockstar</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Street Fighter Ex3.iso</path>
+		<name>Street Fighter EX3</name>
+		<desc>Street Fighter EX3 is the third console installment in the Street Fighter EX series developed by Arika and published by Capcom.</desc>
+		<image>~/.emulationstation/downloaded_images/ps2/Street Fighter Ex3-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>20001026T000000</releasedate>
+		<developer>Akira</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./The Simpsons - Hit &amp; Run.iso</path>
+		<name>The Simpsons - Hit &amp; Run</name>
+		<desc>The Simpsons: Hit &amp; Run can be best described as Grand Theft Auto in Springfield.
+
+The player takes on the role of Homer, Marge, Bart, Lisa or Apu and try to uncover a mystery surrounding mechanical bees that are taking over Springfield, mysterious vans, and cola that can control the minds of those who drink it.
+
+Like GTA, the game follows a linear-based path through fifty plus missions. The player will have to chase cars and find out where they're headed, grab all the spilling cola cans before people can drink them, and chasing down villains before they get away.
+
+Throughout the course of the game, the player can unlock tons of rewards by completing missions in a set amount of time or performing outstanding stunts.
+
+All voiceovers are performed by those who act in the show, including Dan Castellaneta (Homer), Julie Kavner (Marge) and Yeardley Smith (Lisa).
+
+The game supports multiplayer action for up to four players.</desc>
+		<image>~/.emulationstation/downloaded_images/ps2/The Simpsons - Hit &amp; Run-image.jpg</image>
+		<releasedate>20030916T000000</releasedate>
+		<developer>Radical Entertainment Inc.</developer>
+		<publisher>Fox</publisher>
+		<genre>Action</genre>
+		<players>4+</players>
+	</game>
+</gameList>
